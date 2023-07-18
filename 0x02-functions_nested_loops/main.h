@@ -3,12 +3,12 @@
 /**
  * _putchar -  prints character input
  *
- * @i: Description of parameter i
+ * @i: Description of parameter in
  *
- * return: value
+ * Return: value
  *
  */
-void _putchar(int i)
+int  _putchar(int i)
 {
 	return (putchar(i));
 }
