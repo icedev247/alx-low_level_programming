@@ -2,9 +2,7 @@
 #include "main.h"
 /**
  * main - entry point
- *
  * Return: 0 on sucess
- *
  */
 int main(void)
 {
