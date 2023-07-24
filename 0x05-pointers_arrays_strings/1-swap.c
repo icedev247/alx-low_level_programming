@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * swap_int - The function takes two pointer arguments 
+ * swap_int - The function takes two pointer arguments
  * and swaps the value of the variables they point to.
  * @a: the first input pointer.
  * @b: the second input pointer argument.
